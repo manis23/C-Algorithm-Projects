@@ -278,14 +278,8 @@ void intro()
     funfram();
     gotoxy(40,6);
     cout<<"\xB2\xDB  RUNWAY SCHEDULING SYSTEM  ";
-    gotoxy(45,8);
-    cout<<"\xB2\xDB MANAS NISHAD ";
-    gotoxy(45,10);
-    cout<<"\xDB\xB2 MRIDUL KUMAR ";
     gotoxy(45,12);
-    cout<<"\xB2\xDB SHIVA KANSAL";
-    gotoxy(45,14);
-    cout<<"\xDB\xB2 HIMANSHU GUPTA";
+    cout<<"\xB2\xDB MANAS NISHAD ";
     gotoxy(40,16);
     cout<<"PRESS ANY KEY TO CONTINUE";
     getch();
